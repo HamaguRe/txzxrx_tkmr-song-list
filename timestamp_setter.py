@@ -66,38 +66,45 @@ def main():
     f.close()
     print("Succeeded!")
 
-
-def hhmmss_to_seconds(time_str: str) -> str:
-    """hh:mm:ss 形式の文字列を s(秒) 形式の文字列に変換する"""
+# hh:mm:ss 形式の文字列を s(秒) 形式の文字列に変換する。
+# mm:ssやss形式になっている場合には0埋めしてhh:mm:ssに修正した文字列を返す。
+def time_reformatter(time_str: str) -> str:
     h = 0
     m = 0
     s = 0
     tmp = time_str.split(':')
-    if len(tmp) == 2:
+    if len(tmp) == 1:
+        s = int(tmp[0])
+    elif len(tmp) == 2:
         m, s = map(int, tmp)
     elif len(tmp) == 3:
         h, m, s = map(int, tmp)
     else:
         print("Time paese error.")
 
-    return str(h * 3600 + m * 60 + s)
+    hhmmss_str = "{:0>2}:{:0>2}:{:0>2}".format(h, m, s)
+    second_str = str(h * 3600 + m * 60 + s)
+
+    return (hhmmss_str, second_str)
+
 
 def add_timestamp_link(line: str, parent_url: str) -> str:
     """Markdownの歌リストに開始時間のURLを追加する"""
 
-    split_sapce = line.split(' ', 2)  # 3回目以降の空白は分割しない
-    timestamp_url = parent_url + "&t=" + hhmmss_to_seconds(split_sapce[1]) + 's'
+    split_space = line.split(' ', 2)  # 3回目以降の空白は分割しない
+    (hhmmss_str, second_str) = time_reformatter(split_space[1])
+    timestamp_url = parent_url + "&t=" + second_str + 's'
 
     # タイトルを取り出す。既に [title](timestamp_url) の形式になっている場合にも対応。
     title = ''
     match = re.search(r'\[(.*?)\]\((https?://[^\s)]+)\)', line)
     print(match)
     if match == (None, None) or match == None:
-        title = split_sapce[2]
+        title = split_space[2]
     else:
         title = match.group(1)
 
-    new_line = "{} {} [{}]({})".format(split_sapce[0], split_sapce[1], title, timestamp_url)
+    new_line = "{} {} [{}]({})".format(split_space[0], hhmmss_str, title, timestamp_url)
 
     return new_line
 
