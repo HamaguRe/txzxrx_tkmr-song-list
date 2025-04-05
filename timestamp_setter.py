@@ -2,6 +2,7 @@
 #
 # 各配信について、以下のフォーマットでREADME.mdに記載しておくと曲の開始時間から再生されるURLを
 # 自動的に付与してくれる。
+# 開始時間と曲名の間を全角スペースにするとエラーで止まるので注意。曲名以降なら全角スペースがあっても大丈夫。
 #
 # ``` README.md
 # ## 2025-03-16 [【弾き語り】確定申告終わりました歌枠](https://www.youtube.com/watch?v=uUTYwl_U9RY)
@@ -15,9 +16,9 @@
 # ``` README.md
 # ## 2025-03-16 [【弾き語り】確定申告終わりました歌枠](https://www.youtube.com/watch?v=uUTYwl_U9RY)
 #
-# 1. 5:19 [チェリー / スピッツ](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=319s)
-# 1. 16:44 [怪獣の花唄 / Vaundy](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=1004s)
-# 1. 22:51 [灰色と青 / 米津玄師 ( + 菅田将暉) ](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=1371s)
+# 1. 00:05:19 [チェリー / スピッツ](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=319s)
+# 1. 00:16:44 [怪獣の花唄 / Vaundy](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=1004s)
+# 1. 00:22:51 [灰色と青 / 米津玄師 ( + 菅田将暉) ](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=1371s)
 # ```
 #
 # 処理語のREADME.mdに対して追記して処理することも可能。既にタイムスタンプURLが付与されている行も
