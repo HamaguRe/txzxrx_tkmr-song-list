@@ -530,11 +530,18 @@
 
 ## 2020-04-05 [まったり弾き語り（練習）](https://www.youtube.com/watch?v=0-kc9vK676Q)
 
-要セトリ調査
+1. 00:07:19 [ただ君に晴れ / ヨルシカ](https://www.youtube.com/watch?v=0-kc9vK676Q&t=439s)
+1. 00:17:25 [カブトムシ / Aiko](https://www.youtube.com/watch?v=0-kc9vK676Q&t=1045s)
+1. 00:27:41 [CHE.R.RY / Yui](https://www.youtube.com/watch?v=0-kc9vK676Q&t=1661s)
+1. 00:34:30 [ninelie / Aimer & 澤野弘之](https://www.youtube.com/watch?v=0-kc9vK676Q&t=2070s)
+1. 00:46:41 [Squall / 福山雅治](https://www.youtube.com/watch?v=0-kc9vK676Q&t=2801s)
+1. 00:54:43 [チェリー / スピッツ](https://www.youtube.com/watch?v=0-kc9vK676Q&t=3283s)
+1. 01:04:52 [肌 / 星野源](https://www.youtube.com/watch?v=0-kc9vK676Q&t=3892s)
+1. 01:13:24 [接吻 / ORIGINAL LOVE](https://www.youtube.com/watch?v=0-kc9vK676Q&t=4404s)
 
 ## 2020-01-14 [【1周年記念】誕生日になるまでまったり弾き語り](https://www.youtube.com/watch?v=i8Ji_GGescQ)
 
-1. 00:03:20 [ハジメテノオト / 初音ミク](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=200s)
+1. 00:03:20 [ハジメテノオト / malo](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=200s)
 1. 00:11:26 [揺れる想い / ZARD](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=686s)
 1. 00:14:24 [柊 / Do As Infinity](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=864s)
 1. 00:16:01 [本日ハ晴天ナリ / Do As Infinity](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=961s)
@@ -555,14 +562,11 @@
 
 ## 2020-01-11 [【鷹森Bツヅル×アシノ】L'Arc-en-Ciel カバーライブ！【生演奏コラボ】](https://www.youtube.com/watch?v=ANG4m_-nBgI)
 
-HONEY
-snow drop
-FLOWER
-DIVE TO BLUE
-Drivers High
-
-要セトリ調査（開始時間不明）
-L'Arc〜en〜Ciel　表記が正
+1. 00:02:06 [HONEY / L'Arc〜en〜Ciel](https://www.youtube.com/watch?v=ANG4m_-nBgI&t=126s)
+1. 00:12:52 [snow drop / L'Arc〜en〜Ciel](https://www.youtube.com/watch?v=ANG4m_-nBgI&t=772s)
+1. 00:21:51 [flower / L'Arc〜en〜Ciel](https://www.youtube.com/watch?v=ANG4m_-nBgI&t=1311s)
+1. 00:34:47 [DIVE TO BLUE / L'Arc〜en〜Ciel](https://www.youtube.com/watch?v=ANG4m_-nBgI&t=2087s)
+1. 00:47:24 [Driver's High / L'Arc〜en〜Ciel](https://www.youtube.com/watch?v=ANG4m_-nBgI&t=2844s)
 
 ## 2019-08-04 [収益化記念！緊急生放送](https://www.youtube.com/watch?v=a5OkvihUaaY)
 
@@ -571,4 +575,11 @@ L'Arc〜en〜Ciel　表記が正
 
 ## 2019-07-29 [【鷹森生放送第3回】小声で雑に弾き語りをしてみる](https://www.youtube.com/watch?v=GtMtp9QFU4s)
 
-要セトリ調査
+1. 00:05:05 [ハジメテノオト / malo](https://www.youtube.com/watch?v=GtMtp9QFU4s&t=305s)
+1. 00:10:35 [鷹森ツヅルの自己紹介 (的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=GtMtp9QFU4s&t=635s)
+1. 00:14:46 [シャルル / バルーン（少しだけ）](https://www.youtube.com/watch?v=GtMtp9QFU4s&t=886s)
+1. 00:21:09 [One more time, One more chance / 山崎まさよし](https://www.youtube.com/watch?v=GtMtp9QFU4s&t=1269s)
+1. 00:29:01 [丸の内サディスティック / 椎名林檎](https://www.youtube.com/watch?v=GtMtp9QFU4s&t=1741s)
+1. 00:37:34 [Sunday Morning / Maroon5](https://www.youtube.com/watch?v=GtMtp9QFU4s&t=2254s)
+
+以上
