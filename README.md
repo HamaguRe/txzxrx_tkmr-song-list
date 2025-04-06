@@ -10,7 +10,7 @@
 
 1. 00:05:19 [チェリー / スピッツ](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=319s)
 1. 00:16:44 [怪獣の花唄 / Vaundy](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=1004s)
-1. 00:22:51 [灰色と青 / 米津玄師 ( + 菅田将暉) ](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=1371s)
+1. 00:22:51 [灰色と青（＋菅田将暉） / 米津玄師](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=1371s)
 1. 00:32:37 [Overdose / なとり](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=1957s)
 1. 00:38:28 [ロビンソン / スピッツ](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=2308s)
 1. 00:45:24 [春を告げる / yama](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=2724s)
@@ -25,7 +25,7 @@
 1. 00:35:02 [怪獣 / サカナクション](https://www.youtube.com/watch?v=1MUkTuP2lrw&t=2102s)
 1. 00:41:24 [星間飛行 / ランカ・リー=中島愛](https://www.youtube.com/watch?v=1MUkTuP2lrw&t=2484s)
 1. 00:51:24 [3月9日 / レミオロメン](https://www.youtube.com/watch?v=1MUkTuP2lrw&t=3084s)
-1. 00:58:51 [鷹森ツヅルの自己紹介（的）ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=1MUkTuP2lrw&t=3531s)
+1. 00:58:51 [鷹森ツヅルの自己紹介 (的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=1MUkTuP2lrw&t=3531s)
 
 ## 2025-03-02 [【弾き語り】新ビジュアルで心機一転弾き語り](https://www.youtube.com/watch?v=8fUcReAirKI)
 
@@ -148,7 +148,7 @@
 1. 00:16:23 [アカシア / BUMP OF CHICKEN (サビ)](https://www.youtube.com/watch?v=pyZlfxVujHc&t=983s)
 1. 00:18:01 [なないろ / BUMP OF CHICKEN (サビ)](https://www.youtube.com/watch?v=pyZlfxVujHc&t=1081s)
 1. 00:23:31 [プレゼント / BUMP OF CHICKEN ](https://www.youtube.com/watch?v=pyZlfxVujHc&t=1411s)
-1. 00:31:15 [灰色と青 / 米津玄師 ( + 菅田将暉)](https://www.youtube.com/watch?v=pyZlfxVujHc&t=1875s)
+1. 00:31:15 [灰色と青（＋菅田将暉） / 米津玄師](https://www.youtube.com/watch?v=pyZlfxVujHc&t=1875s)
 1. 00:45:45 [水色の街 / スピッツ](https://www.youtube.com/watch?v=pyZlfxVujHc&t=2745s)
 1. 00:53:21 [ハネモノ / スピッツ (1コーラス)](https://www.youtube.com/watch?v=pyZlfxVujHc&t=3201s)
 1. 00:57:22 [8823 / スピッツ](https://www.youtube.com/watch?v=pyZlfxVujHc&t=3442s)
@@ -159,7 +159,7 @@
 1. 00:25:58 [REDEFINE / 鷹森ツヅル](https://www.youtube.com/watch?v=6ibh2CFFekw&t=1558s)
 1. 00:31:19 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=6ibh2CFFekw&t=1879s)
 1. 00:37:51 [夏空と残響 / 鷹森ツヅル](https://www.youtube.com/watch?v=6ibh2CFFekw&t=2271s)
-1. 00:49:30 [鷹森ツヅルの自己紹介(的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=6ibh2CFFekw&t=2970s)
+1. 00:49:30 [鷹森ツヅルの自己紹介 (的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=6ibh2CFFekw&t=2970s)
 
 ## 2023-12-13 [突発弾き語り！【鷹森B】](https://www.youtube.com/watch?v=U6fisQpnQ84)
 
@@ -177,7 +177,7 @@
 ## 2023-11-26 [日夜弾き語り【鷹森B】](https://www.youtube.com/watch?v=lIMBGUT3Pc0)
 
 1. 00:05:26 [アイネクライネ / 米津玄師](https://www.youtube.com/watch?v=lIMBGUT3Pc0&t=326s)
-1. 00:12:49 [灰色と青 / 米津玄師 & 菅田将暉](https://www.youtube.com/watch?v=lIMBGUT3Pc0&t=769s)
+1. 00:12:49 [灰色と青（＋菅田将暉） / 米津玄師](https://www.youtube.com/watch?v=lIMBGUT3Pc0&t=769s)
 1. 00:21:45 [天体観測 / BUMP OF CHICKEN](https://www.youtube.com/watch?v=lIMBGUT3Pc0&t=1305s)
 1. 00:30:28 [くるみ / Mr.Children](https://www.youtube.com/watch?v=lIMBGUT3Pc0&t=1828s)
 1. 00:41:28 [口笛 / Mr.Children](https://www.youtube.com/watch?v=lIMBGUT3Pc0&t=2488s)
@@ -202,7 +202,7 @@
 1. 01:00:29 [ドラえもん / 星野源 (途中まで)](https://www.youtube.com/watch?v=xT8BDtZyt7M&t=3629s)
 1. 01:02:01 [ドラえもん / 星野源](https://www.youtube.com/watch?v=xT8BDtZyt7M&t=3721s)
 1. 01:08:45 [低気圧的アーツ / おつかれベイビーズ](https://www.youtube.com/watch?v=xT8BDtZyt7M&t=4125s)
-1. 01:18:49 [鷹森ツヅルの自己紹介(的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=xT8BDtZyt7M&t=4729s)
+1. 01:18:49 [鷹森ツヅルの自己紹介 (的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=xT8BDtZyt7M&t=4729s)
 
 ## 2023-10-14 [お昼すぎのしっとり弾き語り【鷹森B】](https://www.youtube.com/watch?v=w4QXT35BnCQ)
 
@@ -343,7 +343,7 @@
 
 ## 2022-11-23 [【鷹森B】ゲリラ弾き語り](https://www.youtube.com/watch?v=3k4ZVzx8loE)
 
-1. 00:06:16 [灰色と青 / 米津玄師（+菅田将暉）](https://www.youtube.com/watch?v=3k4ZVzx8loE&t=376s)
+1. 00:06:16 [灰色と青（＋菅田将暉） / 米津玄師](https://www.youtube.com/watch?v=3k4ZVzx8loE&t=376s)
 1. 00:14:04 [アイネクライネ / 米津玄師](https://www.youtube.com/watch?v=3k4ZVzx8loE&t=844s)
 1. 00:25:51 [PADDLE / Mr.Children](https://www.youtube.com/watch?v=3k4ZVzx8loE&t=1551s)
 1. 00:31:38 [NOT FOUND / Mr.Children](https://www.youtube.com/watch?v=3k4ZVzx8loE&t=1898s)
@@ -357,4 +357,218 @@
 1. 01:22:23 [ホシアイ / レフティーモンスターP](https://www.youtube.com/watch?v=3k4ZVzx8loE&t=4943s)
 1. 01:29:06 [低気圧的アーツ / おつかれベイビーズ](https://www.youtube.com/watch?v=3k4ZVzx8loE&t=5346s)
 
-過去分も順次追加予定
+## 2022-11-03 [【鷹森B】夜のゆったり弾き語り](https://www.youtube.com/watch?v=5lLxYBoHctE)
+
+1. 00:03:46 [勿忘 / Awesome City Club](https://www.youtube.com/watch?v=5lLxYBoHctE&t=226s)
+1. 00:11:51 [あの夢をなぞって / YOASOBI](https://www.youtube.com/watch?v=5lLxYBoHctE&t=711s)
+1. 00:19:15 [低気圧的アーツ / おつかれベイビーズ](https://www.youtube.com/watch?v=5lLxYBoHctE&t=1155s)
+1. 00:25:42 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=5lLxYBoHctE&t=1542s)
+1. 00:32:28 [天体観測 / BUMP OF CHICKEN](https://www.youtube.com/watch?v=5lLxYBoHctE&t=1948s)
+1. 00:38:04 [ray / BUMP OF CHICKEN](https://www.youtube.com/watch?v=5lLxYBoHctE&t=2284s)
+1. 00:45:29 [プレゼント / BUMP OF CHICKEN](https://www.youtube.com/watch?v=5lLxYBoHctE&t=2729s)
+1. 00:52:06 [たばこ / コレサワ](https://www.youtube.com/watch?v=5lLxYBoHctE&t=3126s)
+1. 00:59:56 [Calc. / ジミーサムP](https://www.youtube.com/watch?v=5lLxYBoHctE&t=3596s)
+1. 01:05:03 [夏空と残響 / 鷹森ツヅル](https://www.youtube.com/watch?v=5lLxYBoHctE&t=3903s)
+1. 01:11:43 [鷹森ツヅルの自己紹介 (的)ソング /鷹森ツヅル](https://www.youtube.com/watch?v=5lLxYBoHctE&t=4303s)
+
+## 2022-10-23 [【鷹森B】夕方のまったり弾き語リハビリ](https://www.youtube.com/watch?v=3nHO7XHIseI)
+
+1. 00:08:22 [くだらないの中に / 星野源](https://www.youtube.com/watch?v=3nHO7XHIseI&t=502s)
+1. 00:16:16 [アイネクライネ / 米津玄師](https://www.youtube.com/watch?v=3nHO7XHIseI&t=976s)
+1. 00:23:01 [糸 / 中島みゆき](https://www.youtube.com/watch?v=3nHO7XHIseI&t=1381s)
+1. 00:30:53 [正しい街 / 椎名林檎](https://www.youtube.com/watch?v=3nHO7XHIseI&t=1853s)
+1. 00:41:20 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=3nHO7XHIseI&t=2480s)
+1. 00:52:06 [KICK BACK / 米津玄師](https://www.youtube.com/watch?v=3nHO7XHIseI&t=3126s)
+1. 01:00:56 [HANABI / Mr.Children](https://www.youtube.com/watch?v=3nHO7XHIseI&t=3656s)
+1. 01:08:26 [シーソーゲーム 〜勇敢な恋の歌〜 / Mr.Children](https://www.youtube.com/watch?v=3nHO7XHIseI&t=4106s)
+1. 01:18:58 [ラムのラブソング / 松谷祐子](https://www.youtube.com/watch?v=3nHO7XHIseI&t=4738s)
+1. 01:24:48 [ムーンライト伝説 / DALI](https://www.youtube.com/watch?v=3nHO7XHIseI&t=5088s)
+1. 01:37:05 [鷹森ツヅルの自己紹介 (的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=3nHO7XHIseI&t=5825s)
+
+## 2022-07-01 [【鷹森B】深夜のまったり弾き語り](https://www.youtube.com/watch?v=-rA_ohIBzTw)
+
+1. 00:04:39 [カタオモイ / Aimer](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=279s)
+1. 00:10:43 [たばこ / コレサワ](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=643s)
+1. 00:18:05 [恋人失格 / コレサワ](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=1085s)
+1. 00:25:37 [糸 / 中島みゆき](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=1537s)
+1. 00:31:05 [くだらないの中に / 星野源](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=1865s)
+1. 00:39:09 [ここでキスして。 / 椎名林檎](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=2349s)
+1. 00:45:18 [本能 / 椎名林檎](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=2718s)
+1. 00:51:58 [東京フラッシュ / Vaundy](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=3118s)
+1. 00:59:04 [歌うたいのバラッド / 斉藤和義](https://www.youtube.com/watch?v=-rA_ohIBzTw&t=3544s)
+
+## 2022-06-15 [3周年記念配信！！！](https://www.youtube.com/watch?v=oSzTbxOETXY)
+
+1. 01:07:22 [鷹森ツヅルの自己紹介 (的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=oSzTbxOETXY&t=4042s)
+
+## 2022-06-07 [【鷹森B】深夜の弾き語り練習](https://www.youtube.com/watch?v=1fYWq8CjZLM)
+
+1. 00:04:06 [ガラスのブルース / BUMP OF CHICKEN](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=246s)
+1. 00:14:44 [有心論 / RADWIMPS](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=884s)
+1. 00:22:19 [不可幸力 / Vaundy](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=1339s)
+1. 00:27:42 [葛飾ラプソディー / 堂島孝平](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=1662s)
+1. 00:31:29 [晴れてハレルヤ / 奥井亜紀](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=1889s)
+1. 00:35:47 [勇気100% / 光GENJI](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=2147s)
+1. 00:40:38 [ムーンライト伝説 / DALI](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=2438s)
+1. 00:44:44 [ラムのラブソング / 松谷祐子](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=2684s)
+1. 00:50:07 [心細いな / ヘレン笹野](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=3007s)
+1. 00:52:09 [ハッピー・ジャムジャム ](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=3129s)
+1. 00:56:40 [おジャ魔女カーニバル‼︎ / MAHO堂](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=3400s)
+1. 01:02:03 [素敵な君 / RAZZ MA TAZZ](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=3723s)
+1. 01:07:03 [♡桃色片想い♡ / 松浦亜弥](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=4023s)
+1. 01:10:52 [くだらないの中に / 星野源](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=4252s)
+1. 01:16:24 [夏空と残響 / 鷹森ツヅル](https://www.youtube.com/watch?v=1fYWq8CjZLM&t=4584s)
+
+## 2022-05-06 [音御光歌くんと歌みたコラボ打ち上げセッション！](https://www.youtube.com/watch?v=KaGmNWdhl5o)
+
+1. 00:13:36 [太陽系デスコ / ナユタン星人](https://www.youtube.com/watch?v=KaGmNWdhl5o&t=816s)
+1. 00:24:12 [コールボーイ / syudou](https://www.youtube.com/watch?v=KaGmNWdhl5o&t=1452s)
+1. 00:38:59 [テレキャスタービーボーイ / すりぃ](https://www.youtube.com/watch?v=KaGmNWdhl5o&t=2339s)
+1. 00:44:46 [神っぽいな / ピノキオピー（少しだけ）](https://www.youtube.com/watch?v=KaGmNWdhl5o&t=2686s)
+1. 00:50:02 [ヴィラン / てにをは](https://www.youtube.com/watch?v=KaGmNWdhl5o&t=3002s)
+
+## 2022-03-05 [鷹森ツヅルB、魂の歌枠](https://www.youtube.com/watch?v=Qtbo4x0DJjE)
+
+1. 00:02:53 [きよしのズンドコ節 / 氷川きよし](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=173s)
+1. 00:07:45 [箱根八里の半次郎 / 氷川きよし](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=465s)
+1. 00:13:05 [愛燦燦 / 美空ひばり](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=785s)
+1. 00:19:45 [あの鐘を鳴らすのはあなた / 和田アキ子](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=1185s)
+1. 00:23:57 [RIDE ON TIME / 山下達郎](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=1437s)
+1. 00:32:09 [違う、そうじゃない / 鈴木雅之](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=1929s)
+1. 00:38:22 [ラブ・ドラマティック feat. 伊原六花 / 鈴木雅之](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=2302s)
+1. 00:45:10 [LOVE RAIN 〜恋の雨〜 / 久保田利伸](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=2710s)
+1. 00:50:05 [LA・LA・LA LOVE SONG / 久保田利伸](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=3005s)
+1. 00:56:22 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=Qtbo4x0DJjE&t=3382s)
+
+## 2022-02-26 [【鷹森B】夜のまったり弾き語り - sing with a guitar -](https://www.youtube.com/watch?v=giMpb-xoqaU)
+
+1. 00:07:50 [napori / Vaundy](https://www.youtube.com/watch?v=giMpb-xoqaU&t=470s)
+1. 00:12:40 [Shape of You / Ed Sheeran](https://www.youtube.com/watch?v=giMpb-xoqaU&t=760s)
+1. 00:21:15 [Levitating / Dua Lipa](https://www.youtube.com/watch?v=giMpb-xoqaU&t=1275s)
+1. 00:27:58 [Just the Way You Are / Bruno Mars](https://www.youtube.com/watch?v=giMpb-xoqaU&t=1678s)
+1. 00:34:16 [葛飾ラプソディー / 堂島孝平](https://www.youtube.com/watch?v=giMpb-xoqaU&t=2056s)
+1. 00:38:40 [勿忘 / Awesome City Club](https://www.youtube.com/watch?v=giMpb-xoqaU&t=2320s)
+1. 00:45:14 [接吻 / ORIGINAL LOVE](https://www.youtube.com/watch?v=giMpb-xoqaU&t=2714s)
+1. 00:52:29 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=giMpb-xoqaU&t=3149s)
+
+## 2022-01-27 [鷹森Bがボカロ縛り歌枠をやったらインターネット老人会になってしまうのか？その謎を解明するため我々調査隊は](https://www.youtube.com/watch?v=nUYk9E4vCg0)
+
+1. 00:06:02 [ブリキノダンス / 日向電工](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=362s)
+1. 00:12:15 [恋愛裁判 / 40mP](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=735s)
+1. 00:21:12 [ヴァンパイア / DECO*27](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=1272s)
+1. 00:26:16 [ヒバナ / DECO*27](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=1576s)
+1. 00:32:48 [ホシアイ / レフティーモンスターP](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=1968s)
+1. 00:38:48 [よるもすがら君思ふ / 西沢さんP](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=2328s)
+1. 00:43:37 [神っぽいな / ピノキオピー](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=2617s)
+1. 00:48:45 [テレキャスタービーボーイ / すりぃ](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=2925s)
+1. 00:51:46 [King / Kanaria](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=3106s)
+1. 00:57:19 [シャルル / バルーン](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=3439s)
+1. 01:02:31 [ドーナツホール / ハチ](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=3751s)
+1. 01:08:35 [からくりピエロ / 40mP](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=4115s)
+1. 01:17:08 [エイリアンエイリアン / ナユタン星人](https://www.youtube.com/watch?v=nUYk9E4vCg0&t=4628s)
+
+## 2022-01-17 [【鷹森B】深夜のまったり弾き語り](https://www.youtube.com/watch?v=oOzunuFkd3k)
+
+1. 00:06:54 [糸 / 中島みゆき](https://www.youtube.com/watch?v=oOzunuFkd3k&t=414s)
+1. 00:12:15 [napori / Vaundy](https://www.youtube.com/watch?v=oOzunuFkd3k&t=735s)
+1. 00:19:13 [夜に駆ける / YOASOBI](https://www.youtube.com/watch?v=oOzunuFkd3k&t=1153s)
+1. 00:30:32 [Pop Virus / 星野源](https://www.youtube.com/watch?v=oOzunuFkd3k&t=1832s)
+1. 00:35:36 [くだらないの中に / 星野源](https://www.youtube.com/watch?v=oOzunuFkd3k&t=2136s)
+1. 00:42:43 [葛飾ラプソディー / 堂島孝平](https://www.youtube.com/watch?v=oOzunuFkd3k&t=2563s)
+1. 00:47:46 [Miracle Shopping〜ドン・キホーテのテーマ〜 / 田中マイミ](https://www.youtube.com/watch?v=oOzunuFkd3k&t=2866s)
+1. 00:49:52 [ラムのラブソング / 松谷祐子](https://www.youtube.com/watch?v=oOzunuFkd3k&t=2992s)
+1. 00:59:10 [カブトムシ / aiko](https://www.youtube.com/watch?v=oOzunuFkd3k&t=3550s)
+1. 01:05:52 [スノースマイル / BUMP OF CHICKEN](https://www.youtube.com/watch?v=oOzunuFkd3k&t=3952s)
+1. 01:15:10 [Tears In Heaven / Eric Clapton](https://www.youtube.com/watch?v=oOzunuFkd3k&t=4510s)
+1. 01:23:17 [Honesty / Billy Joel](https://www.youtube.com/watch?v=oOzunuFkd3k&t=4997s)
+1. 01:26:55 [Piano Man / Billy Joel](https://www.youtube.com/watch?v=oOzunuFkd3k&t=5215s)
+1. 01:29:12 [歌うたいのバラッド / 斉藤和義](https://www.youtube.com/watch?v=oOzunuFkd3k&t=5352s)
+1. 01:36:14 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=oOzunuFkd3k&t=5774s)
+
+## 2021-12-29 [【鷹森β】歌い納め！今年流行ったやつとか歌いたい！](https://www.youtube.com/watch?v=6BZJbFvIZ2k)
+
+1. 00:03:37 [YONA YONA DANCE / 和田アキ子](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=217s)
+1. 00:09:12 [Butter / BTS](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=552s)
+1. 00:13:37 [Dynamite / BTS](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=817s)
+1. 00:19:22 [Levitating / Dua Lipa](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=1162s)
+1. 00:27:30 [シル・ヴ・プレジデント / P丸様。](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=1650s)
+1. 00:34:00 [東京フラッシュ / Vaundy](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=2040s)
+1. 00:39:00 [不可幸力 / Vaundy](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=2340s)
+1. 00:49:32 [猫 / DISH//](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=2972s)
+1. 00:59:45 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=6BZJbFvIZ2k&t=3585s)
+
+## 2021-06-27 [【ツヅルβ＆アシノ】アコースティックライブ！](https://www.youtube.com/watch?v=YGhxNs1mLQU)
+
+1. 00:03:01 [SUN / 星野源](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=181s)
+1. 00:09:13 [LA・LA・LA LOVE SONG / 久保田利伸](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=553s)
+1. 00:19:32 [サウダージ / ポルノグラフィティ](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=1172s)
+1. 00:29:06 [ドライフラワー / 優里](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=1746s)
+1. 00:37:57 [灰色と青（＋菅田将暉） / 米津玄師](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=2277s)
+1. 00:46:54 [Flamingo / 米津玄師](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=2814s)
+1. 00:54:13 [歌舞伎町の女王 / 椎名林檎](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=3253s)
+1. 01:02:57 [Tears in Heaven / Eric Clapton](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=3777s)
+1. 01:10:10 [Honesty / Billy Joel](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=4210s)
+1. 01:14:04 [シャルル / バルーン](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=4444s)
+1. 01:25:00 [NEO UNIVERSE / L'Arc〜en〜Ciel](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=5100s)
+1. 01:35:53 [One more time, One more chance / 山崎まさよし](https://www.youtube.com/watch?v=YGhxNs1mLQU&t=5753s)
+
+## 2021-06-03 [【鷹森ツヅルβ】ひっそり弾き語り](https://www.youtube.com/watch?v=nvnm7ySrcxU)
+
+1. 00:03:31 [鷹森ツヅルの自己紹介 (的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=211s)
+1. 00:10:22 [花の名 / BUMP OF CHICKEN](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=622s)
+1. 00:14:23 [ray / BUMP OF CHICKEN](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=863s)
+1. 00:21:35 [天体観測 / BUMP OF CHICKEN](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=1295s)
+1. 00:29:13 [ドライフラワー / 優里](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=1753s)
+1. 00:35:36 [napori / Vaundy](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=2136s)
+1. 00:41:28 [8823 / スピッツ](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=2488s)
+1. 00:47:53 [冷たい頬 / スピッツ](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=2873s)
+1. 00:51:42 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=3102s)
+1. 00:57:51 [Levitating / Dua Lipa](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=3471s)
+1. 01:00:28 [A Whole New World / Alan Menken & Tim Rice](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=3628s)
+1. 01:11:38 [The Beginning / ONE OK ROCK](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=4298s)
+1. 01:20:00 [夏空と残響 / 鷹森ツヅル](https://www.youtube.com/watch?v=nvnm7ySrcxU&t=4800s)
+
+## 2020-04-05 [まったり弾き語り（練習）](https://www.youtube.com/watch?v=0-kc9vK676Q)
+
+要セトリ調査
+
+## 2020-01-14 [【1周年記念】誕生日になるまでまったり弾き語り](https://www.youtube.com/watch?v=i8Ji_GGescQ)
+
+1. 00:03:20 [ハジメテノオト / 初音ミク](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=200s)
+1. 00:11:26 [揺れる想い / ZARD](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=686s)
+1. 00:14:24 [柊 / Do As Infinity](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=864s)
+1. 00:16:01 [本日ハ晴天ナリ / Do As Infinity](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=961s)
+1. 00:21:35 [beams / 黒夢](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=1295s)
+1. 00:27:38 [浮世CROSSING / UVERworld](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=1658s)
+1. 00:31:08 [白日 / King Gnu](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=1868s)
+1. 00:34:33 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=2073s)
+1. 00:37:18 [Climax Jump / AAA](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=2238s)
+1. 00:40:07 [モッツァレラ▲トライ▼クッキング / 羽子田チカ（少しだけ）](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=2407s)
+1. 00:41:50 [アイネクライネ / 米津玄師](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=2510s)
+1. 00:45:12 [チェリー / スピッツ](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=2712s)
+1. 00:46:53 [月光花 / Janne Da Arc](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=2813s)
+1. 00:49:11 [シュガーソングとビターステップ / UNISON SQUARE GARDEN](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=2951s)
+1. 00:53:23 [オリオンをなぞる / UNISON SQUARE GARDEN](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=3203s)
+1. 00:54:48 [冷たい頬 / スピッツ](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=3288s)
+1. 00:57:18 [Happy birthday to you](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=3438s)
+1. 01:00:29 [鷹森ツヅルの自己紹介 (的)ソング / 鷹森ツヅル](https://www.youtube.com/watch?v=i8Ji_GGescQ&t=3629s)
+
+## 2020-01-11 [【鷹森Bツヅル×アシノ】L'Arc-en-Ciel カバーライブ！【生演奏コラボ】](https://www.youtube.com/watch?v=ANG4m_-nBgI)
+
+HONEY
+snow drop
+FLOWER
+DIVE TO BLUE
+Drivers High
+
+要セトリ調査（開始時間不明）
+L'Arc〜en〜Ciel　表記が正
+
+## 2019-08-04 [収益化記念！緊急生放送](https://www.youtube.com/watch?v=a5OkvihUaaY)
+
+1. 00:01:35 [丸の内サディスティック / 椎名林檎](https://www.youtube.com/watch?v=a5OkvihUaaY&t=95s)
+1. 00:15:00 [ありがとう / いきものがかり（BGM被り）](https://www.youtube.com/watch?v=a5OkvihUaaY&t=900s)
+
+## 2019-07-29 [【鷹森生放送第3回】小声で雑に弾き語りをしてみる](https://www.youtube.com/watch?v=GtMtp9QFU4s)
+
+要セトリ調査
