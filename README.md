@@ -6,6 +6,17 @@
 
 鷹森ツヅルの歌を！！！聞こう！！！
 
+## 2025-04-06 [【弾き語り】夜のまったり弾き語りタイム【鷹森ツヅル】](https://www.youtube.com/watch?v=KRAdgMGi2Go)
+
+1. 00:02:30 [ドライフラワー / 優里](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=150s)
+1. 00:09:35 [ロビンソン / スピッツ](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=575s)
+1. 00:16:00 [カブトムシ / Aiko](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=960s)
+1. 00:23:09 [口笛 / Mr.Children](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=1389s)
+1. 00:37:34 [歌うたいのバラッド / 斉藤和義](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=2254s)
+1. 00:44:50 [ヴィラン / てにをは](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=2690s)
+1. 00:50:06 [シャルル / バルーン](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=3006s)
+1. 00:55:44 [FACE // FACE / 鷹森ツヅル](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=3344s)
+
 ## 2025-03-16 [【弾き語り】確定申告終わりました歌枠](https://www.youtube.com/watch?v=uUTYwl_U9RY)
 
 1. 00:05:19 [チェリー / スピッツ](https://www.youtube.com/watch?v=uUTYwl_U9RY&t=319s)
@@ -93,7 +104,7 @@
 1. 00:43:58 [Pop Virus / 星野源](https://www.youtube.com/watch?v=6Vq621Cz5yA&t=2638s)
 1. 00:48:50 [未来予想図II / DREAMS COME TRUE](https://www.youtube.com/watch?v=6Vq621Cz5yA&t=2930s)
 1. 00:57:33 [接吻 / ORIGINAL LOVE](https://www.youtube.com/watch?v=6Vq621Cz5yA&t=3453s)
-1. 01:06:16 [口笛 / Mr. Children](https://www.youtube.com/watch?v=6Vq621Cz5yA&t=3976s)
+1. 01:06:16 [口笛 / Mr.Children](https://www.youtube.com/watch?v=6Vq621Cz5yA&t=3976s)
 
 ## 2025-01-12 [歌い初めかもしれない【鷹森B】](https://www.youtube.com/watch?v=dguAgauC4xk)
 
