@@ -29,7 +29,7 @@ import shutil
 
 def main():
     # 一応バックアップファイルを作成（メインはgitで）
-    shutil.copyfile("./README.md", "./README-backup.md")
+    #shutil.copyfile("./README.md", "./README-backup.md")
 
     # 編集前のファイルをメモリ上に読み込む
     f = open("README.md", mode="r", encoding="utf-8")

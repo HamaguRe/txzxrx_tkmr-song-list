@@ -6,6 +6,14 @@
 
 鷹森ツヅルの歌を！！！聞こう！！！
 
+## 2025-05-11 [【弾き語り】お久しぶりの弾き語り歌枠](https://www.youtube.com/watch?v=iUHgFzSEV3U)
+
+1. 00:20:54 [風になりたい / the boom](https://www.youtube.com/watch?v=iUHgFzSEV3U&t=1254s)
+1. 00:26:15 [最後の雨 / 中西保志](https://www.youtube.com/watch?v=iUHgFzSEV3U&t=1575s)
+1. 00:50:07 [違う、そうじゃない / 鈴木雅之](https://www.youtube.com/watch?v=iUHgFzSEV3U&t=3007s)
+1. 00:54:38 [め組のひと / RATS&STAR](https://www.youtube.com/watch?v=iUHgFzSEV3U&t=3278s)
+1. 01:00:17 [come again / m-flo ](https://www.youtube.com/watch?v=iUHgFzSEV3U&t=3617s)
+
 ## 2025-04-06 [【弾き語り】夜のまったり弾き語りタイム【鷹森ツヅル】](https://www.youtube.com/watch?v=KRAdgMGi2Go)
 
 1. 00:02:30 [ドライフラワー / 優里](https://www.youtube.com/watch?v=KRAdgMGi2Go&t=150s)
