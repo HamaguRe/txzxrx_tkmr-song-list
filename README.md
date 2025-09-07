@@ -6,6 +6,19 @@
 
 鷹森ツヅルの歌を！！！聞こう！！！
 
+## 2025-09-06 [【 #RUMBLE_LIVE歌枠リレー 】ライブ！ライブ！ライブ！](https://www.youtube.com/watch?v=7uGtYbzMqzk)
+
+1. 00:01:40 [Calc. / ジミーサムP feat. 初音ミク](https://www.youtube.com/watch?v=7uGtYbzMqzk&t=100s)
+1. 00:05:41 [夏空と残響 / 鷹森ツヅル](https://www.youtube.com/watch?v=7uGtYbzMqzk&t=341s)
+1. 00:12:57 [少女レイ / みきとP feat. 初音ミク ](https://www.youtube.com/watch?v=7uGtYbzMqzk&t=777s)
+1. 00:18:30 [REDEFINE / 鷹森ツヅル](https://www.youtube.com/watch?v=7uGtYbzMqzk&t=1110s)
+1. 00:24:23 [Someday / 鷹森ツヅル](https://www.youtube.com/watch?v=7uGtYbzMqzk&t=1463s)
+
+## 2025-07-12 [【弾き語り】雑談からの弾き語りリハビリ](https://www.youtube.com/watch?v=Z6923Am3OHM)
+
+1. 00:51:24 [天体観測 / BUMP OF CHICKEN](https://www.youtube.com/watch?v=Z6923Am3OHM&t=3084s)
+1. 00:59:29 [ホシアイ / レフティーモンスターP](https://www.youtube.com/watch?v=Z6923Am3OHM&t=3569s)
+
 ## 2025-05-11 [【弾き語り】お久しぶりの弾き語り歌枠](https://www.youtube.com/watch?v=iUHgFzSEV3U)
 
 1. 00:20:54 [風になりたい / the boom](https://www.youtube.com/watch?v=iUHgFzSEV3U&t=1254s)
