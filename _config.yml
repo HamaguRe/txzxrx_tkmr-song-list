@@ -1,8 +1,5 @@
 title: 鷹森ツヅル歌枠一覧
 description: 非公式の歌枠一覧です
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
 sass:
   load_paths:
     - assets/css
