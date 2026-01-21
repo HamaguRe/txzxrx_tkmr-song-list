@@ -4,7 +4,7 @@
 コメント欄のセトリをそのままコピーさせて頂いているところも多々あります。
 追加・修正希望あればプルリク下さい。
 
-鷹森ツヅルの歌を！！！聞こう！！！
+[鷹森ツヅルの歌を！！！聞こう！！！](https://youtu.be/Nukoea2u7TE?si=GLaJtCqT06m2jZmN)
 
 ## 2025-09-06 [【 #RUMBLE_LIVE歌枠リレー 】ライブ！ライブ！ライブ！](https://www.youtube.com/watch?v=7uGtYbzMqzk)
 
